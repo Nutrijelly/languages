@@ -1,0 +1,190 @@
+*,
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Inter, sans-serif;
+}
+
+/* Latar Header Start */
+    .latar-header {
+        width: 100%;
+        height: 100vh;
+        /* background-image: url('https://img.freepik.com/free-photo/abstract-elegant-blue-background-with-text-space_1017-46767.jpg?semt=ais_hybrid&w=740&q=80'); */
+        background-image: url('../img/hero/hero.png');
+
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .latar-header .latar-heater-container {
+        background-color: rgba(0, 0, 0, 0.198);
+    }
+/* Latar Header End */
+
+/* Navbar Start */
+    header {
+        width: 100%;
+    }
+
+    header nav {
+        padding: 20px;
+    }
+
+    header nav ul {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+        align-items: center;
+    }
+
+        /* Search Bar */
+            header nav ul li .search-bar{              
+                color: gray;
+                border: 2px solid black;
+                padding: 0 10px 0 0;
+                
+                display: block;
+                margin: 0 auto;
+            }
+
+            header nav ul li .search-bar i:nth-child(1){
+                color: white;
+                background-color: black;
+                font-size: 1.2rem;
+
+                border-right: 1px solid red;
+                padding: 1px;
+                margin: 0 10px 0 0;
+            }
+        /* Search Bar */
+
+    header nav ul li {
+        list-style-type: none;
+    }
+
+    header nav ul li a{
+        text-decoration: none;
+    }
+
+        /* Judul */
+            header nav ul li:nth-child(1) a:nth-child(1) {
+                color: black;
+                background-color: white;
+
+                font-size: 1.25rem;
+                font-weight: 700;
+
+                border: 1px solid black;
+                border-top-right-radius: 50px;
+                border-bottom-right-radius: 50px;
+
+                box-shadow: 2px 6px 2px 1px black;
+
+                padding: 0 12px;
+                /* pointer-events: none; */
+            }
+        /* Judul */
+
+
+    header nav ul li:nth-child(2) a{
+        color: black;
+        text-decoration: none;
+
+        margin: 0 40px;
+    }
+
+        /* Icon */
+            header nav ul li:nth-child(3) a{
+                width: 20vw;
+                color: white;
+
+                border: 2px solid black;
+                background-color: black;
+                padding: 0 10px 0 0;
+            }
+
+            header nav ul li:nth-child(3) a i:nth-child(1){
+                color: white;
+                background-color: black;
+                font-size: 1.2rem;
+                border-right: 1px solid white;
+
+                align-items: center;
+                padding: 1px;
+                margin: 0 10px 0 0;
+            }
+        /* Icon */
+
+/* Navbar End*/
+
+/* Hero Start */
+.hero {
+    width: 100%;
+
+    margin: 100px 0;
+}
+
+.hero .container {
+    padding: 20px;
+}
+
+.hero .container ul {
+    margin: 20px;
+    background-color: red;
+
+    display: flex;
+    justify-content: space-evenly;
+
+    align-items: center;
+}
+
+    /* Div 1 Start */
+        .hero .container ul div:nth-child(1) {
+            max-width: 20vw;
+        }
+        
+        .hero .container ul div:nth-child(1) h1 {
+            border-bottom: 3px solid black;
+        }
+
+        .hero .container ul div:nth-child(1) p {
+            margin: 10px 0;
+        }
+
+        .hero .container ul div:nth-child(1) a {
+            color: white;
+            background-color: black;
+            
+            padding: 0 10px 0 5px;
+            text-decoration: none;
+
+            transition: all ease 10ms;
+        }.hero .container ul div:nth-child(1) a:hover {
+            color: black;
+            background-color: white;
+            font-weight: 600;
+
+            border: 1px solid black;
+            transition: all ease-out 500ms
+        }
+    /* Div 1 End */
+    
+    
+    /* Div 2 Start */
+        .hero .container ul div:nth-child(2) {
+            width: 300px;
+
+            padding: 10px;
+            background-color: black;
+
+            border: 1px solid black;
+            border-top-left-radius: 50px;
+        }
+    /* Div 2 End */
+
+
+
+/* Hero End */
