@@ -51,7 +51,17 @@ Hello there!😉 Welcome to my repository. In this repository, you can see what 
        <tr>
 	 <td> We </td>
          <td> play </td>
-         <td> a game at 7 p.m</td> <!-- Subject = We, play = verb1, a game = object, at 7 p.m. = adverb of time. -->
+         <td> a game at 7 p.m</td>           <!-- Subject = We, play = verb1, a game = object, at 7 p.m. = adverb of time. -->
+       </tr>
+       <tr>
+         <td> I </td>
+         <td> drive </td>                    <!-- Penggunaan verb1 bergantung pada subject kalimat. Jika subject kalimatnya adalah subject jamak. Maka, tidak memerlukan imbuhan suffix s/es diakhir bentuk kata kerja dasarnya. Sedangkan, jika subject kalimatnya tunggal. Maka, memerlukan imbuhan suffix s/es. Untuk imbuhan suffix yang terdapat pada sebuah kata kerja dasar. Imbuhannya berdasarkan bentuk kata kerja dasar itu sendiri jika bentuk kata kerja dasar berakhiran s maka suffixnya es. namun, jika bentuk kata kerja dasarnya berakhiran y maka suffixnya adalah ies bukan es. Tidak hanya itu saja. Terdapat juga aturan yang berlaku lainnya untuk pembentukan kata kerja dasar yang terdapat imbuhan suffixnya untuk subject tunggal. Dimana, aturan ini harus diketahui. Supaya mempermudah kita dalam membentuk sebuah kalimat dalam bahasa inggris yang sesuai dengan pola dan aturan yang berlaku-->
+         <td> a car to go to school</td>
+       </tr>
+       <tr>
+         <td> They </td>
+         <td> play </td>
+         <td> exercise every morning </td> <!-- They exercise every morning. Kalimat ini benar secara tata bahasa dalam bahasa inggris. Dimana, kalimat ini berpolakan positif dengan tense atau keterangan waktu simple present tense. Serta, kalimat ini bertujuan untuk menunjukkan sebuah rutinitas atau kebiasan yang dilakukan pada pagi hari  --> 
        </tr>
      </table>
      <p> Subject + Not + Verb1 Object;               </p>
