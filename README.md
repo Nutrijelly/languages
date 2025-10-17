@@ -48,6 +48,11 @@ Hello there!😉 Welcome to my repository. In this repository, you can see what 
          <td> reads </td>
          <td> a novel with me </td>
        </tr>
+       <tr>
+	 <td> We </td>
+         <td> play </td>
+         <td> a game at 7 p.m</td> <!-- Subject = We, play = verb1, a game = object, at 7 p.m. = adverb of time. -->
+       </tr>
      </table>
      <p> Subject + Not + Verb1 Object;               </p>
      <p> [Y/N Q] Do/Does + Subject + verb1 + Object; </p>
