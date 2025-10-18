@@ -9,8 +9,13 @@ Hello there!  Welcome to my repository. In this repository, you can see what I a
 }-->
 
 <ul>
-<h1> English Grammar </h1>
-<h2> Simple Present Tense</h2>
+    <h1> English Grammar </h1>
+  <ol type="1">
+    <li>
+      <h2> Simple Present Tense (English Grammar) </h2>
+      <ul>
+        
+      
   <!--                    Column 1                        -->
   <li>
     <!--                  Baris 1                         -->
@@ -99,6 +104,8 @@ Hello there!  Welcome to my repository. In this repository, you can see what I a
     <!--                  Baris 1                         -->
   </li>
   <!--                    Column 3                        -->
-
+  </ul>
+    </li>
+  </ol>
 </ul>
 
