@@ -1,10 +1,10 @@
-Hello there!😉 Welcome to my repository. In this repository, you can see what I am working on
-<!--Simple Present Tense {                                   
-  [ Pattern of Tenses ]                                    [                 Verb                 ]          [                 Auxiliary Be                 ]                                    
+Hello there!  Welcome to my repository. In this repository, you can see what I am working on
+<!--Simple Present Tense {
+  [ Pattern of Tenses ]                                    [                 Verb                 ]          [                 Auxiliary Be                 ]
   (+)Positive Pattern of Simple Present Tense              Subject + Verb1(-s/-es) + Object;                 Subject + Be + Complement;
   (-)Negative Pattern of Simple Present Tense              Subject + Not + Verb1 + Object;                   Subject + Be + Not + Complement;
-  (?)Interrogative Pattern of Simple Present Tense [Y/N Q] Do/Does + Subject + Verb1 + Object                Be      + Subject + Complement; 
-                                                   [5W1HW] QW + Do/Does + Subject + Verb1 + Object;          
+  (?)Interrogative Pattern of Simple Present Tense [Y/N Q] Do/Does + Subject + Verb1 + Object                Be      + Subject + Complement;
+                                                   [5W1HW] QW + Do/Does + Subject + Verb1 + Object;
 
 }-->
 
@@ -49,7 +49,7 @@ Hello there!😉 Welcome to my repository. In this repository, you can see what 
          <td> a novel with me </td>
        </tr>
        <tr>
-	 <td> We </td>
+         <td> We </td>
          <td> play </td>
          <td> a game at 7 p.m</td>           <!-- Subject = We, play = verb1, a game = object, at 7 p.m. = adverb of time. -->
        </tr>
@@ -61,10 +61,26 @@ Hello there!😉 Welcome to my repository. In this repository, you can see what 
        <tr>
          <td> They </td>
          <td> play </td>
-         <td> exercise every morning </td> <!-- They exercise every morning. Kalimat ini benar secara tata bahasa dalam bahasa inggris. Dimana, kalimat ini berpolakan positif dengan tense atau keterangan waktu simple present tense. Serta, kalimat ini bertujuan untuk menunjukkan sebuah rutinitas atau kebiasan yang dilakukan pada pagi hari  --> 
+         <td> exercise every morning </td> <!-- They exercise every morning. Kalimat ini benar secara tata bahasa dalam bahasa inggris. Dimana, kalimat ini berpolakan positif dengan tense atau keterangan waktu simple present tense. Serta, kalimat ini bertujuan untuk menunjukkan sebuah rutinitas atau kebiasan yang dilakukan pada pagi hari  -->
        </tr>
      </table>
-     <p> Subject + Not + Verb1 Object;               </p>
+     <p> Subject + Do / Does + Not + Verb1 Object;               </p>
+     <table>
+       <tr>
+         <th> Subject </th>
+         <th> Not </th>
+         <th> Verb1 </th>
+         <th> Object </th>
+       </tr>
+       <tr>
+         <td> I </td>
+         <td> do </td>
+         <td> not </td>
+         <td> go </td>
+         <td> to school</td>
+       </tr>
+
+     </table>
      <p> [Y/N Q] Do/Does + Subject + verb1 + Object; </p>
      <p> [5W1HW] Do/Does + Subject + verb1 + Object; </p>
     <!--                  Baris 1                         -->
@@ -84,5 +100,4 @@ Hello there!😉 Welcome to my repository. In this repository, you can see what 
   <!--                    Column 3                        -->
 
 </ul>
-
 
