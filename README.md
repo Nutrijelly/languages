@@ -79,7 +79,6 @@ Hello there!  Welcome to my repository. In this repository, you can see what I a
          <td> go </td>
          <td> to school</td>
        </tr>
-
      </table>
      <p> [Y/N Q] Do/Does + Subject + verb1 + Object; </p>
      <p> [5W1HW] Do/Does + Subject + verb1 + Object; </p>
