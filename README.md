@@ -68,6 +68,7 @@ Hello there!  Welcome to my repository. In this repository, you can see what I a
      <table>
        <tr>
          <th> Subject </th>
+         <th> Do </th>
          <th> Not </th>
          <th> Verb1 </th>
          <th> Object </th>
